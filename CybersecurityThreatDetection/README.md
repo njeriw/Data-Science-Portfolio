@@ -11,9 +11,9 @@ By developing this model, the aim is to demonstrate proficiency in applying deep
 
 ### Built with 
 ***
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,c,vim" />
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda" />
   </a>
 </p>
 
