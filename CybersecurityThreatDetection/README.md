@@ -1,5 +1,5 @@
 # Detecting Cybersecurity Threats: Deep Learning with Bayesian hyperparameter tuning, data preprocessing pipelines, Parital Dependence Plots
-***
+
 ### Introduction 
 This repository presents a deep learning solution for Cyber Threat Detection.
 
@@ -11,6 +11,7 @@ By developing this model, the aim is to demonstrate proficiency in applying deep
 
 ### Dependencies 
 ***
-
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
