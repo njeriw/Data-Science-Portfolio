@@ -12,7 +12,7 @@
 </details>
 
 ### Introduction 
-This repository presents a deep learning solution for Cyber Threat Detection.
+This project presents a deep learning solution for Cyber Threat Detection.
 
 In today's evolving digital landscape, organizations face an escalating barrage of sophisticated cyber threats, from malware and phishing to denial-of-service attacks. This project addresses this challenge by leveraging the power of deep learning to identify malicious activities proactively.
 
