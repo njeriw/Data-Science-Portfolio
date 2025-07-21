@@ -1,5 +1,16 @@
 # Detecting Cybersecurity Threats: Deep Learning with Bayesian hyperparameter tuning, data preprocessing pipelines, Parital Dependence Plots
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#built with">Built with</a></li>
+    <li><a href="#data dictionary">Data Dictionary</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ### Introduction 
 This repository presents a deep learning solution for Cyber Threat Detection.
 
@@ -17,6 +28,21 @@ All necessary dependencies can be installed via pip using the command: `pip inst
     <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,pandas,numpy" />
   </a>
 </p>
+
+### Data Dictionary
+
+| Column     | Description              |
+|------------|--------------------------|
+|`processId`|The unique identifier for the process that generated the event - int64 |
+|`threadId`|ID for the thread spawning the log - int64|
+|`parentProcessId`|Label for the process spawning this log - int64|
+|`userId`|ID of user spawning the log|Numerical - int64|
+|`mountNamespace`|Mounting restrictions the process log works within - int64|
+|`argsNum`|Number of arguments passed to the event - int64|
+|`returnValue`|Value returned from the event log (usually 0) - int64|
+|`sus_label`|Binary label as suspicous event (1 is suspicious, 0 is not) - int64|
+
+More information on the dataset: [BETH dataset](accreditation.md)
 
 ### Acknowledgements
 This project's structure and initial problem outline were inspired by the DataCamp "Cybersecurity Threat Detection" project. I acknowledge DataCamp for providing a valuable foundation and dataset context that guided this implementation.
