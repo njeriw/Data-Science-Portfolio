@@ -9,9 +9,12 @@ Utilizing the BETH dataset, which simulates real-world network and kernel-proces
 
 By developing this model, the aim is to demonstrate proficiency in applying deep learning techniques to critical cybersecurity problems, ultimately contributing to more robust organizational defenses.
 
-### Dependencies 
+### Built with 
 ***
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,c,vim" />
+  </a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
