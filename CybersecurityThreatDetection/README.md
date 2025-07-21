@@ -29,6 +29,8 @@ All necessary dependencies can be installed via pip using the command: `pip inst
   </a>
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Data Dictionary
 
 | Column     | Description              |
@@ -44,5 +46,9 @@ All necessary dependencies can be installed via pip using the command: `pip inst
 
 More information on the dataset: [BETH dataset](accreditation.md)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Acknowledgements
 This project's structure and initial problem outline were inspired by the DataCamp "Cybersecurity Threat Detection" project. I acknowledge DataCamp for providing a valuable foundation and dataset context that guided this implementation.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
